@@ -1,7 +1,6 @@
 # Collis::Btt
 
-Contact me for a details.
-
+UL / Collis Brand EMV Test Tool automation module. See details about hardware https://www.collistesttools.com/ 
 ## Installation
 
 Add this line to your application's Gemfile:
